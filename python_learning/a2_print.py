@@ -8,7 +8,10 @@ def main():
 
     print("variable a is =", a)
     print("variable a is {1}, b is {0}".format(a,b))
+
+     #f-string
+    print(f"variable a is {a}, b is {b}")
+    
 if __name__ == "__main__":
     main()
-    #f-string
-    print(f"variable a is {a}, b is {b}")
+   
