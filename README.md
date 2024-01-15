@@ -6,5 +6,3 @@
 
 - this is my first commit change
 - we study ROS2 and OpenCV
-[EOF]
-
