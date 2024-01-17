@@ -25,6 +25,5 @@ def main():
         if cv2.waitKey(1) == ord("q"):
             con = False
 
-
 if __name__ == "__main__":
     main()
